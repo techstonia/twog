@@ -1,0 +1,11 @@
+<div class="media post">
+    <h2 class="lead">Voicepost #{{ i }}</h2>
+
+    <div>
+        <audio controls>
+            <source src="{{ post.uri }}" type="audio/x-wav">
+        </audio>
+    </div>
+    <p>Posted on {{ post.date_created }}</p>
+
+</div>

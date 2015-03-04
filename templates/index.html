@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+
+{% block content %}
+    {% for post in posts %}
+        {% set i = loop.revindex %}
+        {% include 'post.html' %}
+    {% endfor %}
+{% endblock %}
