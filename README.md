@@ -2,7 +2,7 @@
 
 Blog about your daily activities using your voice and a mobile phone. No internet connection needed!
 
-You can find my voice blog on: [https://twog.herokuapp.com](https//:twog.herokuapp.com).
+You can find my voice blog on: [https://twog.herokuapp.com](https://twog.herokuapp.com).
 
 ## Usage
 1. Create a free [Twilio](https://www.twilio.com) account and a [voice number](https://www.twilio.com/user/account/phone-numbers/incoming).
